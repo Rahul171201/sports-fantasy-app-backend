@@ -1,0 +1,24 @@
+{
+  "name": "sports-fantasy-app-backend",
+  "version": "1.0.0",
+  "description": "a sports fantasy app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul171201/sports-fantasy-app-backend.git"
+  },
+  "author": "rahul roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul171201/sports-fantasy-app-backend/issues"
+  },
+  "homepage": "https://github.com/Rahul171201/sports-fantasy-app-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3"
+  }
+}
